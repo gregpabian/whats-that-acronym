@@ -1,0 +1,26 @@
+{
+  "name": "wat",
+  "version": "0.1.0",
+  "description": "What's That Acronym?",
+  "engines": {
+    "node": "10.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.4",
+    "request": "2.88.0",
+    "xml2js": "0.4.19"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+    "slack"
+  ]
+}
